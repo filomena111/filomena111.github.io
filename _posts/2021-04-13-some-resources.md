@@ -22,8 +22,8 @@ bangle.io -
 
 # helpful links
 - [help with relative links](https://travis.media/how-to-add-images-in-jekyll-posts-with-relative-links/)
-
-
+- [github pages settings](https://github.com/filomena111/filomena111/settings/pages)
+- [github pages select new template](https://github.com/filomena111/filomena111/settings/pages/themes?select=minima&source=main)
 
 # Markdown Cheat Sheet
 
