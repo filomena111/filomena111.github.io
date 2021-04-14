@@ -30,10 +30,10 @@ exclude:
   - new-post.sh
 
 
-title: some title
+title: filomena111
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  some description 
+  This is my first attempt at github pages. 
    
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://filomena111.github.io" # the base hostname & protocol for your site, e.g. http://example.com
