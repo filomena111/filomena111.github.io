@@ -20,6 +20,11 @@ bangle.io -
 {{site.url}} or {{site.github.url}}
 ```
 
+#starting jekyll
+```
+bundle exec jekyll serve
+```
+
 # helpful links
 - [help with relative links](https://travis.media/how-to-add-images-in-jekyll-posts-with-relative-links/)
 - [github pages settings](https://github.com/filomena111/filomena111/settings/pages)
