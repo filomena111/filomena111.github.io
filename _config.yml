@@ -45,7 +45,8 @@ url: "https://filomena111.github.io" # the base hostname & protocol for your sit
 plugins:
   - jekyll-feed
 
-theme: jekyll-theme-cayman
+theme: minima
+#theme: jekyll-theme-cayman
 #theme: jekyll-athena
 #theme: jekyll-theme-console
 #header_pages:
