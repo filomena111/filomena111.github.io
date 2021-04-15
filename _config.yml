@@ -46,7 +46,8 @@ plugins:
   - jekyll-feed
 
 #theme: minima
-theme: jekyll-theme-cayman
+theme: leap-day
+#theme: jekyll-theme-cayman
 #theme: jekyll-athena
 #theme: jekyll-theme-console
 #header_pages:
